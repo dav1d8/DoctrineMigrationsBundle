@@ -28,7 +28,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/greg0ire/DoctrineMigrationsBundle.git"
+            "url": "https://github.com/greg0ire/migrations.git"
         }
     ],
     "require-dev": {
